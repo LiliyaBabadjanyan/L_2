@@ -1,0 +1,14 @@
+img{
+    width:50%;
+    margin: 10px;
+}
+body{
+    background-color: hotpink;
+}
+
+p{
+    font-family: "Times New Roman";
+    font-size: 24px;
+    margin: 10px;
+    margin-bottom: 0px;
+}
